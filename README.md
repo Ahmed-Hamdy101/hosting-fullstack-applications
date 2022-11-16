@@ -50,4 +50,4 @@ front-end : http://my-746193541454-bucket.s3-website-us-east-1.amazonaws.com
 - [Elastic Beanstalk resources - AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/RelatedResources.html?icmpid=docs_elasticbeanstalk_console)  
 - [Environment properties and other software settings](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg-softwaresettings.html?icmpid=docs_elasticbeanstalk_console)  
 - [Adding a database to your Elastic Beanstalk environment](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.db.html)  
-- [elasticbeanstalk-features](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.db.html)  
+
