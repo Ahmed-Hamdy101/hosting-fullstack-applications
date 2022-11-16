@@ -14,8 +14,21 @@ front-end : http://my-746193541454-bucket.s3-website-us-east-1.amazonaws.com
 - [pipeline](docs/.pipeline.md)
 
 
-#Structure :
+# Structure :
 - ![pipline]()
 - ![aws_cloud]()
 
-
+# resources :
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
+- [dependinces](docs/dependinces.md.md)  
