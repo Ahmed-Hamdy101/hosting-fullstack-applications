@@ -15,8 +15,7 @@ jobs:
        - checkout
        - run:
           name: Install Front-End Dependencies
-          command: |
-                  npm update               
+          command: |              
                    npm run frontend:install
           
        - run:
