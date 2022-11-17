@@ -48,11 +48,11 @@ jobs:
        - run:
             name: Set env
             command: |
-               npm run env 
+                    npm run env 
        - run:
             name: Deploy App
             command: |
-               npm run deploy
+                    npm run deploy
             
 workflows:
   udagram:
