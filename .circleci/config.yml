@@ -17,8 +17,7 @@ jobs:
           name: Install Front-End Dependencies
           command: |
                    npm update     
-                   npm run frontend:install
-          
+                   npm run frontend:install       
        - run:
           name: Install API Dependencies
           command: |
@@ -27,7 +26,6 @@ jobs:
           name: Front-End Lint
           command: |
                    npm run frontend:lint
- 
        - run:
           name: Front-End Build
           command: |
