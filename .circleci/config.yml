@@ -15,6 +15,7 @@ jobs:
        - run:
           name: Install Front-End Dependencies
           command: |
+                   npm/update               
                    npm run frontend:install
           
        - run:
@@ -24,16 +25,16 @@ jobs:
        - run:
           name: Front-End Lint
           command: |
-                    npm run frontend:lint
+                   npm run frontend:lint
  
        - run:
           name: Front-End Build
           command: |
-                    npm run  frontend:build
+                   npm run  frontend:build
        - run:
           name: API Build
           command: |
-                    npm run  api:build
+                   npm run  api:build
   deploy:
        docker:
        - image: "cimg/base:stable"
