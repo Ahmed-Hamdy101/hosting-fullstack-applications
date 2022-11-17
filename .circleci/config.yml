@@ -15,7 +15,7 @@ jobs:
        - run:
           name: Install Front-End Dependencies
           command: |
-                   yarn frontend:install
+                   npm run frontend:install
           
        - run:
           name: Install API Dependencies
