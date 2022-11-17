@@ -44,10 +44,6 @@ jobs:
        - aws-cli/setup
        - checkout
        - run:
-            name: Set env
-            command: |
-                    npm run env 
-       - run:
             name: Deploy App
             command: |
                     npm run deploy
