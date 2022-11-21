@@ -32,7 +32,7 @@ jobs:
                    npm run  frontend:build
        - run:
           name: API Build
-          command: |
+          command:
                    npm run  api:build
   deploy:
        docker:
